@@ -1,2 +1,6 @@
-# oibsip_Level2_Task2-
-Tribute Page
+# Tribute Page Level-2 Task-2 OasisInfobyte Internship 
+
+# * Tribute Page *
+
+Laptop with Browser Icon
+With a basic understanding of HTML and CSS, you can easily create a page for someone you admire. Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately. You can also play around with different font styles and background colors.
